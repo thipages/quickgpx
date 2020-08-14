@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Polar Vantage M">
+<metadata>
+<author>
+<name>Polar</name>
+</author>
+<time>2020-08-07T04:23:43.728Z</time>
+</metadata>
+<trk>
+<trkseg>
+<trkpt lat="44.97067333" lon="4.80414167">
+<ele>537.0</ele>
+<time>2020-08-07T04:23:44.729Z</time>
+</trkpt>
+<trkpt lat="44.97067333" lon="4.80414167">
+<ele>537.0</ele>
+<time>2020-08-07T04:23:45.729Z</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

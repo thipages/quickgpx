@@ -1,6 +1,6 @@
 {
   "name": "thipages/quickgpx",
-  "version": "v0.0.1",
+  "version": "v0.1.0",
   "description": "Quick gpx parser",
   "type": "library",
   "keywords" : ["gpx","parser","unixtime","isotime","utc" ,"quick"],

@@ -1,0 +1,18 @@
+{
+  "name": "thipages/quickgpx",
+  "version": "v0.0.1",
+  "description": "Quick gpx parser",
+  "type": "library",
+  "keywords" : ["gpx","parser","unixtime","isotime","utc" ,"quick"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thierry PAGES",
+      "email": "thipages@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-0": {"thipages\\quick\\": "src/"}
+  }
+}

@@ -10,7 +10,7 @@ class QGpx {
                 (float)$pt['lat'],
                 (float)$pt['lon'],
                 (float)$pt->ele,
-                date("U", (string)strtotime($pt->time))
+                (int)date("U", (string)strtotime($pt->time))
             ];
             if ($withOriginalTime) $temp[]=(string)$pt->time[0];
             $res[]=$temp;
